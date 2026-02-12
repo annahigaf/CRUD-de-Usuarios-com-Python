@@ -1,3 +1,10 @@
+GRUPO:
+Anna Julia Higa Farincho 
+Evelyn Merces
+Geovane Soares 
+Leticia Macedo
+Richard
+
 🧑‍💻 CRUD de Usuários com Python
 
 API desenvolvida em Python para gerenciamento de usuários, implementando as operações básicas de um sistema CRUD (Create, Read, Update e Delete) com armazenamento de dados em memória utilizando uma lista (array). O projeto foi estruturado com boas práticas, aplicando arquitetura MVC + Service para separar responsabilidades e modularizar o código.
@@ -6,10 +13,15 @@ API desenvolvida em Python para gerenciamento de usuários, implementando as ope
 🚀 Funcionalidades
 
 ✔ Criar um novo usuário
+
 ✔ Listar todos os usuários
+
 ✔ Consultar usuário específico
+
 ✔ Atualizar dados de um usuário
+
 ✔ Remover usuário do sistema
+
 
 Essas operações são realizadas em memória, sem necessidade de banco de dados externo, facilitando testes e demonstração de lógica backend.
 
