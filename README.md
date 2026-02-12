@@ -1,9 +1,17 @@
+TURMA: SI (noturno)
+
 GRUPO:
+
 Anna Julia Higa Farincho 
+
 Evelyn Merces
-Geovane Soares 
+
+Geovane Soares
+
 Leticia Macedo
+
 Richard
+
 
 🧑‍💻 CRUD de Usuários com Python
 
