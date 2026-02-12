@@ -39,10 +39,15 @@ Essas operações são realizadas em memória, sem necessidade de banco de dados
 O projeto está organizado seguindo boas práticas de arquitetura e separação de camadas:
 
 📦controllers     # Responsáveis por receber as requisições
+
 📦models          # Definições de entidades como User
+
 📦repositories    # Abstrai a camada de persistência em memória
+
 📦services        # Lógica de negócios
+
 app.py            # Arquivo principal para iniciar o servidor/API
+
 
 🧠 Arquitetura
 
